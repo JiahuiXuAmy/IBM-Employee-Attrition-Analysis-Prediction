@@ -4,4 +4,4 @@ High employee attrition rates can profoundly affect organizations, resulting in 
 
 
 # Project Objective
-The primary objective of this project is to conduct Exploratory Data Analysis (EDA) on the IBM HR Analytics Employee Attrition & Performance dataset using Python. The project aims to gain valuable insights into the factors contributing to employee attrition and organizational performance through EDA. Additionally, we will build predictive models using various machine-learning algorithms to forecast employee attrition.
+The primary objective of this project is to conduct Exploratory Data Analysis (EDA) on the IBM HR Analytics Employee Attrition & Performance dataset using Python. The project aims to gain valuable insights into the factors contributing to employee attrition and organizational performance through EDA. Additionally, predictive models are built using various machine-learning algorithms to forecast employee attrition.
