@@ -11,5 +11,5 @@ This project aims to uncover the underlying factors contributing to employee att
 - Achieve high prediction accuracy to assist in effective human resource planning and management.
 
 ### Key Findings
-- Through EDA and statistical analysis, several key factors contributing to attrition were identified, including job satisfaction levels, salary, work-life balance, and tenure.
+- Through EDA and statistical analysis, several key factors contributing to attrition were identified, including business travel percentage, management style, and etc.
 - The Logistic Regression model provided a solid baseline, while the Gradient Boosting Classifier emerged as the most accurate model with an 86% accuracy rate.
