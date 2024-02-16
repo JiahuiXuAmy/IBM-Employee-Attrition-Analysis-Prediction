@@ -1,7 +1,15 @@
-# Introduction
+# IBM Employee Attrition Analysis and Prediction
 
-High employee attrition rates can profoundly affect organizations, resulting in higher recruitment and training expenses, lower productivity, and diminished employee morale. Understanding the factors driving attrition is crucial, prompting companies to take proactive measures. Developing a predictive model to classify employees at risk of leaving can be highly beneficial for companies.
+## Overview
+This project aims to uncover the underlying factors contributing to employee attrition at IBM and develop predictive models to identify at-risk employees. By leveraging Exploratory Data Analysis (EDA) and statistical techniques, the project identifies key variables influencing attrition rates. Machine learning algorithms, including Logistic Regression and Gradient Boosting Classifier, were employed to train classifier models, with the best model achieving a peak accuracy of 86%.
 
+### Objectives
+- Identify critical factors contributing to employee attrition at IBM.
+- Conduct Exploratory Data Analysis (EDA) to understand data patterns and trends.
+- Utilize statistical methods to validate the findings from EDA.
+- Train and compare multiple machine learning models to predict employee attrition.
+- Achieve high prediction accuracy to assist in effective human resource planning and management.
 
-# Project Objective
-The primary objective of this project is to conduct Exploratory Data Analysis (EDA) on the IBM HR Analytics Employee Attrition & Performance dataset using Python. The project aims to gain valuable insights into the factors contributing to employee attrition and organizational performance through EDA. Additionally, predictive models are built using various machine-learning algorithms to forecast employee attrition.
+### Key Findings
+- Through EDA and statistical analysis, several key factors contributing to attrition were identified, including job satisfaction levels, salary, work-life balance, and tenure.
+- The Logistic Regression model provided a solid baseline, while the Gradient Boosting Classifier emerged as the most accurate model with an 86% accuracy rate.
